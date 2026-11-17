@@ -1,0 +1,6 @@
+{
+  "name": "Vektor OBD",
+  "description": "Real-time vehicle Bluetooth OBD-II telemetry, fuel efficiency coaching, and live engine diagnostics.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
